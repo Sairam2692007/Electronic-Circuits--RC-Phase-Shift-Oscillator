@@ -44,7 +44,7 @@ PC with LT Spice software
 
 	
 37.	## OUTPUTS:
-<img width="1600" height="567" alt="image" src="https://github.com/user-attachments/assets/fe645c94-95f3-4273-b379-e23b36d75413" />
+<img width="1600" height="759" alt="image" src="https://github.com/user-attachments/assets/2da26d4a-66cf-40fe-b0f0-60b2b4bc567b" />
 
 38.	## RESULT:
 <img width="1600" height="567" alt="image" src="https://github.com/user-attachments/assets/b94d9258-7f57-40b0-8112-b0bf9f8962a6" />
